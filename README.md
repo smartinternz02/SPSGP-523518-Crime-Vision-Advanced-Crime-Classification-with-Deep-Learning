@@ -1,1 +1,2 @@
 # Smart-CCTV-Crime-Classification
+The project "Crime Vision: Advanced Crime Classification with Deep Learning" aims to develop a sophisticated crime classification system using deep learning techniques. It leverages the power of artificial intelligence and computer vision to analyze automatically and categorize various types of crimes captured in surveillance videos and images. By employing advanced deep learning models, the system will be able to recognize and classify criminal activities accurately and efficiently.
